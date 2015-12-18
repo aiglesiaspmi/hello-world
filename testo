@@ -1,0 +1,3 @@
+Este programa, mete las reservas de la agencia Ferien en el AS400, para el tema de cupos (webrsit)
+select count(*) from sidewebf/webrsit
+para que aparezcan en los plannings, y se tengan en cuenta
